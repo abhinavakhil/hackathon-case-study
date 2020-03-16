@@ -1,0 +1,14 @@
+1.
+MediStock
+<APPROVED />
+Health
+
+Frequently the medicines remain unused with people. In those cases medicines do get wasted. So the main motive is to bring medicines back into consumption cycle before their expiry date in a seamless and hassle free manner and to build a mechanism to prevent fake and restricted medicines from getting circulated.
+2.
+Qlinic
+<APPROVED />
+Health
+
+This would be an app that provides contact information for, and directions to, the nearest and most appropriate medical care facility, based on your current situation. On request, it would call for emergency services and provide them with your current GPS location.
+
+Participants: Isha Gautam, Anukriti 

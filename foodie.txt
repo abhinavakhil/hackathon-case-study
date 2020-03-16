@@ -1,0 +1,27 @@
+Foodiee- An application made for all the food lovers, around the globe. with the fast paced life we almost dont analyze what we eat and how much we should actually eat. we know that you love food but at the same time its very difficult for people to find the correct nutrient values of the food and also the old conventional method is too much boring to manually input the nutrients value and get the nutrients present in that food.
+
+Foodiee is a Quick solution to this problem. Using this application you just have to take the picture of the food and based upon the machine learning algorithm our application will let you know the nutrients value of that food within seconds and much accurately.
+
+we have 2 different models for the food:
+1. unpacked food:
+    For unpacked food we have our machine learning 
+    algorithm which analyze the food present and based 
+    upon that it gives the detailed description of the item.
+
+2. packed food: for the packed food we have a different 
+    scanner which analyze the nutrients value of the food 
+    and gives you the precise detail of the quantity. this 
+    can be used at places like malls where u can  just scan 
+    the packets of food and get the details on your 
+    application.
+
+so now just take the snap of the food and get the detailed nutrition value in seconds fast and efficient.
+
+technologies used:
+1. Machine Learning
+2. Artificial intelligence
+3. React + Nodejs
+4. Microsoft Azure
+5. Android
+
+portfolio: https://myportfolio-1.firebaseapp.com/contact.html

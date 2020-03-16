@@ -1,0 +1,52 @@
+problem statement : 
+college me students ko bahut sare misconception rahta hai about studies (like, roadmap about the carrier they have taken, and where to start and what to do ), also studying in engenniering becomes very 
+boring bcz of bad and less trained faculty and they can complain to gov through our website( 1. query on our website then fetching the data of students of that respective college we will do a polling ,
+ 2. if it is true we will give a notice to the college authority with some deadlines 3. else if fail issue will be send to the state government).
+ 4. if fail at state level then will be send to central education govern.
+==
+
+
+A web + android platform app connecting students of india from different colleges.
+working:
+1. students authetication (i.e should be genuine )
+   and their college identity ( studying )
+   or their workplace identity -(if not studying)
+
+2. teacher id with authorized certificate in the respective field and should be teaching that subj only.
+3. college happening feed - our app will have authorized college ambasador in each college posting all the related feed happening in their colleges.
+
+&connecting and collaboration among students and techer of different college.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Foodiee- An application made for all the food lovers, around the globe. with the fast paced life we almost dont analyze what we eat and how much we should actually eat. we know that you love food but at the same time its very difficult for people to find the correct nutrient values of the food and also the old conventional method is too much boring to manually input the nutrients value and get the nutrients present in that food.
+
+Foodiee is a Quick solution to this problem. Using this application you just have to take the picture of the food and based upon the machine learning algorithm our application will let you know the nutrients value of that food within seconds and much accurately.
+
+we have 2 different models for the food:
+1. unpacked food:
+    For unpacked food we have our machine learning 
+    algorithm which analyze the food present and based 
+    upon that it gives the detailed description of the item.
+
+2. packed food: for the packed food we have a different 
+    scanner which analyze the nutrients value of the food 
+    and gives you the precise detail of the quantity. this 
+    can be used at places like malls where u can  just scan 
+    the packets of food and get the details on your 
+    application.
+
+so now just take the snap of the food and get the detailed nutrition value in seconds fast and efficient.
+
+technologies used:
+1. Machine Learning
+2. Artificial intelligence
+3. React + Nodejs
+4. Microsoft Azure
+5. Android
+
+
+about team:
+we are sudoNinjas, the team of  individuals who are always motivated and inspired to bring something out of the box . we have been to several hackathons and came out winning few to them.we love technology and the changes it brings to the life of the individuals.we believe that Individual commitment to a group effort--that is what makes a team work .and we intend to achieve it.
